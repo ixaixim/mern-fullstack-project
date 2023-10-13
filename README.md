@@ -1,6 +1,6 @@
 # MERN Stack Full Tutorial & Project
 
-This repository contains code and resources for an all-in-one beginner's course in MERN Stack development. The course spans 8 hours and covers full-stack development using MongoDB, Express, React, and Node.js.
+In these notes, I have included code and resources for an all-in-one beginner's course in MERN Stack development that I am currently taking. Throughout the course, which spans 8 hours, I will learn about full-stack development using MongoDB, Express, React, and Node.js.
 
 ![MERN logo](img/mern.png)
 
