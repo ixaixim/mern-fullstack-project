@@ -68,6 +68,6 @@ Note that the `uninstall_packages.sh` script will permanently remove the package
 ---
 ### Credits
 
-This course is based on the tutorial by [Dave Gray](https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg). You can watch the full tutorial on [YouTube](https://www.youtube.com/watch?v=EfAl9bwzVZk&ab_channel=DaveGray).
+This course is based on the tutorial by [Dave Gray](https://www.youtube.com/channel/UCY38RvRIxYODO4penyxUwTg). You can watch the full tutorial on [YouTube](https://www.youtube.com/watch?v=CvCiNeLnZ00&t=14921s).
 
 ---
